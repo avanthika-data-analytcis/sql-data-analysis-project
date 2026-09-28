@@ -1,1 +1,1 @@
-Sql Queries
+Mysql medical data project queries.
